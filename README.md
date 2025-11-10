@@ -1,2 +1,2 @@
-# Smart-Random-Generator
-Description: Smart Random Generator Pro
+# ttrpg-generator
+Smart Random Generator Pro
